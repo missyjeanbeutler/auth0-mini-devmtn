@@ -1,0 +1,25 @@
+{
+  "name": "auth0-mini-devmtn",
+  "version": "1.0.0",
+  "description": "UserViewer ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missyjeanbeutler/auth0-mini-devmtn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missyjeanbeutler/auth0-mini-devmtn/issues"
+  },
+  "homepage": "https://github.com/missyjeanbeutler/auth0-mini-devmtn#readme",
+  "dependencies": {
+    "express": "^4.15.0",
+    "express-session": "^1.15.1",
+    "passport": "^0.3.2",
+    "passport-auth0": "^0.6.0"
+  }
+}
